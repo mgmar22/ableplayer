@@ -1,124 +1,124 @@
-var en = {
+var tr = {
 
-"audio": "audio",
+"audio": "ses",
 
 "video": "video",
 
-"playerHeading": "Media player",
+"playerHeading": "Medya Oynatıcı",
 
-"faster": "Faster",
+"faster": "Hızlandır",
 
-"slower": "Slower",
+"slower": "Yavaşlat",
 
-"play": "Play",
+"play": "Oynat",
 
-"pause": "Pause",
+"pause": "Duraklat",
 
-"stop": "Stop",
+"stop": "Durdur",
 
-"restart": "Restart",
+"restart": "Yeniden Oynat",
 
-"prevChapter": "Previous chapter",
+"prevChapter": "Önceki Bölüm",
 
-"nextChapter": "Next chapter",
+"nextChapter": "Sonraki Bölüm",
 
-"prevTrack": "Previous track",
+"prevTrack": "Önceki Parça",
 
-"nextTrack": "Next track",
+"nextTrack": "Gelecek Parça",
 
-"rewind": "Rewind",
+"rewind": "Geri Sar",
 
-"forward": "Forward",
+"forward": "İleri Sar",
 
-"captions": "Captions",
+"captions": "Altyazılar",
 
-"showCaptions": "Show captions",
+"showCaptions": "Altyazıları Göster",
 
-"hideCaptions": "Hide captions",
+"hideCaptions": "Altyazıları Gizle",
 
-"captionsOff": "Captions off",
+"captionsOff": "Altyazıkarı Kapat",
 
-"showTranscript": "Show transcript",
+"showTranscript": "Belgeyi Göster",
 
-"hideTranscript": "Hide transcript",
+"hideTranscript": "HBelgeyi Gizle",
 
-"turnOnDescriptions": "Turn on descriptions",
+"turnOnDescriptions": "Açıklamaları Aç",
 
-"turnOffDescriptions": "Turn off descriptions",
+"turnOffDescriptions": "Açıklamaları Kapa",
 
-"chapters": "Chapters",
+"chapters": "Bölümler",
 
-"newChapter": "New chapter",
+"newChapter": "Yeni Bölüm",
 
-"language": "Language",
+"language": "Dil",
 
-"sign": "Sign language",
+"sign": "İşaret Dili",
 
-"showSign": "Show sign language",
+"showSign": "İşaret Dilini Göster",
 
-"hideSign": "Hide sign language",
+"hideSign": "İşaret Dilini Gizle",
 
-"seekbarLabel": "timeline",
+"seekbarLabel": "Zaman Cetveli",
 
-"mute": "Mute",
+"mute": "Sessize Al",
 
-"unmute": "Unmute",
+"unmute": "Sesi Aç",
 
-"volume": "Volume",
+"volume": "Ses Ayarı",
 
-"volumeHelp": "Click to access volume slider",
+"volumeHelp": "Ses ayarlama butonunu kullanmak için tıkla",
 
-"volumeUpDown": "Volume up down",
+"volumeUpDown": "Sesi yükselt veya alçalt",
 
-"volumeSliderClosed": "Volume slider closed",
+"volumeSliderClosed": "Ses ayarlama butonu kapatıldı",
 
-"preferences": "Preferences",
+"preferences": "Seçenekler",
 
-"enterFullScreen": "Enter full screen",
+"enterFullScreen": "Tam Ekranı Etkinleştir",
 
-"exitFullScreen": "Exit full screen",
+"exitFullScreen": "Tam Ekranı Kapa",
 
-"fullScreen": "Full screen",
+"fullScreen": "Tam Ekran",
 
-"speed": "Speed",
+"speed": "Hız",
 
-"and": "and",
+"and": "ve",
 
-"or": "or",
+"or": "veya",
 
-"spacebar": "spacebar",
+"spacebar": "boşluk tuşu",
 
-"transcriptTitle": "Transcript",
+"transcriptTitle": "Belge",
 
-"lyricsTitle": "Lyrics",
+"lyricsTitle": "Sözler",
 
-"autoScroll": "Auto scroll",
+"autoScroll": "Otomatik Kaydırma",
 
-"unknown": "Unknown",
+"unknown": "Bilinmeyen",
 
-"statusPlaying": "Playing",
+"statusPlaying": "Yürütülüyor",
 
-"statusPaused": "Paused",
+"statusPaused": "Duraklat",
 
-"statusStopped": "Stopped",
+"statusStopped": "Durdur",
 
-"statusWaiting": "Waiting",
+"statusWaiting": "Bekliyor",
 
-"statusBuffering": "Buffering",
+"statusBuffering": "Arabelleğe Alınıyor",
 
-"statusUsingDesc": "Using described version",
+"statusUsingDesc": "Tanımlanmış versiyon kullanılıyor",
 
-"statusLoadingDesc": "Loading described version",
+"statusLoadingDesc": "Tanımlanmış versiyon yüklenior",
 
-"statusUsingNoDesc": "Using non-described version",
+"statusUsingNoDesc": "Tanımlanmamış versiyon kullanılıyor",
 
-"statusLoadingNoDesc": "Loading non-described version",
+"statusLoadingNoDesc": "Tanımlanmamış versiyon yükleniyor",
 
-"statusLoadingNext": "Loading next track",
+"statusLoadingNext": "Sonraki Parça Yükleniyor",
 
-"statusEnd": "End of track",
+"statusEnd": "Parça sonlandı",
 
-"selectedTrack": "Selected Track",
+"selectedTrack": "Seçilen Parça",
 
 "alertDescribedVersion": "Using the audio described version of this video",
 
