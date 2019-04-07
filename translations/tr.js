@@ -284,28 +284,28 @@ var tr = {
 
 "windowButtonLabel": "Pencere Seçenekleri",
 
-"windowMove": "Move",
+"windowMove": "Hareket",
 
-"windowMoveAlert": "Drag or use arrow keys to move the window; Enter to stop",
+"windowMoveAlert": "Pencereyi hareket ettirmek için mouse'unu sürü veya ok tuşlarını kullan; Durdurmak için Enter'a bas",
 
-"windowResize": "Resize",
+"windowResize": "Yeniden Boyutlandır",
 
-"windowResizeHeading": "Resize Window",
+"windowResizeHeading": "Pencereyi yeniden Boyutlandır",
 
-"windowResizeAlert": "The window has been resized.",
+"windowResizeAlert": "Pencere yeniden boyutlandırıldı.",
 
-"windowClose": "Close",
+"windowClose": "Kapat",
 
-"width": "Width",
+"width": "En",
 
-"height": "Height",
+"height": "Boy",
 
-"windowSendBack": "Send to back",
+"windowSendBack": "Geri gönder",
 
-"windowSendBackAlert": "This window is now behind other objects on the page.",
+"windowSendBackAlert": "Bu pencere artık sayfadaki diğer objenin ardında.",
 
-"windowBringTop": "Bring to front",
+"windowBringTop": "Öne getir",
 
-"windowBringTopAlert": "This window is now in front of other objects on the page."
+"windowBringTopAlert": "Bu pencere artık saydadaki diğer objenin önünde."
 
 };
