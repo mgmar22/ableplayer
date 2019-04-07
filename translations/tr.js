@@ -158,27 +158,27 @@ var tr = {
 
 "prefIntroDescription4": "Tercihlerini kaydettikten sonra, ses açıklamasını Açıklama butonu aracılığıyla açıp kapatabilirsin.",
 
-"prefIntroKeyboard1": "The media player on this web page can be operated from anywhere on the page using keyboard shortcuts (see below for a list).",
+"prefIntroKeyboard1": "Bu web sayfasındaki medya oynatıcıyı, klavye kısayolları yardımıyla, sayfanın herhangi bir kısmından da yönetebilirsin (Liste için Aşağıyı İncele).",
 
-"prefIntroKeyboard2": "Modifier keys (Shift, Alt, and Control) can be assigned below.",
+"prefIntroKeyboard2": "Niteleme Tuşları (Shift, Alt, ve Control) aşağınan atanabilir.",
 
-"prefIntroKeyboard3": "NOTE: Some key combinations might conflict with keys used by your browser and/or other software applications. Try various combinations of modifier keys to find one that works for you.",
+"prefIntroKeyboard3": "NOT: Bazı tuş kombinasyonları, tarayıcında veya farklı bir programda kullandığın tuşlarla çakışabilir. Uygun niteleme tuşlarını oluşturmak için farklı tuş kombinasyonları kullanmayı dene.",
 
-"prefIntroTranscript": "The following preferences affect the interactive transcript.",
+"prefIntroTranscript": "Belirtilen tercihler interaktif belgeleri değiştirir.",
 
-"prefCookieWarning": "Saving your preferences requires cookies.",
+"prefCookieWarning": "Tercihlerini kaydetmek için çerezlere izin vermelisin.",
 
-"prefHeadingKeyboard1": "Modifier keys used for shortcuts",
+"prefHeadingKeyboard1": "Niteleme Tuşları kısayollar için kullanılır",
 
-"prefHeadingKeyboard2": "Current keyboard shortcuts",
+"prefHeadingKeyboard2": "Şu anki klavye kısayolları",
 
-"prefHeadingDescription": "Audio description",
+"prefHeadingDescription": "Ses açıklaması",
 
-"prefHeadingTextDescription": "Text-based audio description",
+"prefHeadingTextDescription": "Metin tabanlı ses açıklaması",
 
-"prefHeadingCaptions": "Captions",
+"prefHeadingCaptions": "Altyazılar",
 
-"prefHeadingTranscript": "Interactive Transcript",
+"prefHeadingTranscript": "İnteraktif Belgeler",
 
 "prefAltKey": "Alt",
 
@@ -188,101 +188,101 @@ var tr = {
 
 "escapeKey": "Escape",
 
-"escapeKeyFunction": "Close current dialog or popup menu",
+"escapeKeyFunction": "Şu anki diyalogu veya açılır menüyü kapa",
 
-"prefDescFormat": "Preferred format",
+"prefDescFormat": "Tecih edilen format",
 
-"prefDescFormatHelp": "If both formats are avaialable, only one will be used.",
+"prefDescFormatHelp": "Eğer her iki formatta kullanılabilirse, sadece biri kullanılacaktır.",
 
-"prefDescFormatOption1": "alternative described version of video",
+"prefDescFormatOption1": "Video versiyonu için tanımlı alternatifler",
 
-"prefDescFormatOption1b": "an alternative described version",
+"prefDescFormatOption1b": "alternatif tanımlı versiyon",
 
-"prefDescFormatOption2": "text-based description, announced by screen reader",
+"prefDescFormatOption2": "metin tabanlı açıklama, ekran okuyucusu tarafından duyurulan",
 
-"prefDescFormatOption2b": "text-based description",
+"prefDescFormatOption2b": "metin tabanlı açıklama",
 
-"prefDescPause": "Automatically pause video when description starts",
+"prefDescPause": "Açıklama başladığında video'yu otomatik olarak durdur",
 
-"prefVisibleDesc": "Make description visible",
+"prefVisibleDesc": "Açıklamayı görünür yap",
 
-"prefHighlight": "Highlight transcript as media plays",
+"prefHighlight": "Medya'daki belgeyi öne çıkar",
 
-"prefTabbable": "Keyboard-enable transcript",
+"prefTabbable": "Klavye ile aktif edilen belge",
 
-"prefCaptionsFont": "Font",
+"prefCaptionsFont": "Yazı Tipi",
 
-"prefCaptionsColor": "Text Color",
+"prefCaptionsColor": "Metin Rengi",
 
-"prefCaptionsBGColor": "Background",
+"prefCaptionsBGColor": "Arkaplan",
 
-"prefCaptionsSize": "Font Size",
+"prefCaptionsSize": "Yazı Boyutu",
 
-"prefCaptionsOpacity": "Opacity",
+"prefCaptionsOpacity": "Opasite",
 
-"prefCaptionsStyle": "Style",
+"prefCaptionsStyle": "Stil",
 
 "serif": "serif",
 
 "sans": "sans-serif",
 
-"cursive": "cursive",
+"cursive": "el yazısı",
 
-"fantasy": "fantasy",
+"fantasy": "fantezi",
 
-"monospace": "monospace",
+"monospace": "tek hacimli",
 
-"white": "white",
+"white": "beyaz",
 
-"yellow": "yellow",
+"yellow": "sarı",
 
-"green": "green",
+"green": "yeşik",
 
-"cyan": "cyan",
+"cyan": "açık mavi",
 
-"blue": "blue",
+"blue": "mavi",
 
-"magenta": "magenta",
+"magenta": "mor",
 
-"red": "red",
+"red": "kırmızı",
 
-"black": "black",
+"black": "siyah",
 
-"transparent": "transparent",
+"transparent": "transparan",
 
-"solid": "solid",
+"solid": "düz renk",
 
 "captionsStylePopOn": "Pop-on",
 
 "captionsStyleRollUp": "Roll-up",
 
-"prefCaptionsPosition": "Position",
+"prefCaptionsPosition": "Pozisyon",
 
-"captionsPositionOverlay": "Overlay",
+"captionsPositionOverlay": "Kaplama",
 
-"captionsPositionBelow": "Below video",
+"captionsPositionBelow": "Video'nun altında",
 
-"sampleCaptionText": "Sample caption text",
+"sampleCaptionText": "Örnek altyaı metni",
 
-"prefSuccess": "Your changes have been saved.",
+"prefSuccess": "Değişikliklerin kaydedildi.",
 
-"prefNoChange": "You didn't make any changes.",
+"prefNoChange": "Hiçbir değişiklik yapmadın.",
 
-"help": "Help",
+"help": "Yardım",
 
-"helpTitle": "Help",
+"helpTitle": "Yardım",
 
-"save": "Save",
+"save": "Kaydet",
 
-"cancel": "Cancel",
+"cancel": "İptal Et",
 
-"ok": "ok",
+"ok": "Tamam",
 
-"done": "Done",
+"done": "Bitti",
 
-"closeButtonLabel": "Close dialog",
+"closeButtonLabel": "Diyalogu Kapat",
 
-"windowButtonLabel": "Window options",
+"windowButtonLabel": "Pencere Seçenekleri",
 
 "windowMove": "Move",
 
