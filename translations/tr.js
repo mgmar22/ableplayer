@@ -120,43 +120,43 @@ var tr = {
 
 "selectedTrack": "Seçilen Parça",
 
-"alertDescribedVersion": "Using the audio described version of this video",
+"alertDescribedVersion": "Tanımlı video versiyonu için ses kullanılıyor",
 
-"alertNonDescribedVersion": "Using the non-described version of this video",
+"alertNonDescribedVersion": "Tanımlanmamış video versiyonu için kullanılıyor",
 
-"fallbackError1": "Sorry, your browser is unable to play this",
+"fallbackError1": "Üzgünüm, tarayıcın bunu oynatmak için uygun değil",
 
-"fallbackError2": "The following browsers are known to work with this media player",
+"fallbackError2": "Bu video oynatıcı için uygun olan tarayıcılar",
 
-"orHigher": "or higher",
+"orHigher": "ve üzeri için",
 
-"prefMenuCaptions": "Captions",
+"prefMenuCaptions": "Altyazılar",
 
-"prefMenuDescriptions": "Descriptions",
+"prefMenuDescriptions": "Açıklamalar",
 
-"prefMenuKeyboard": "Keyboard",
+"prefMenuKeyboard": "Klavye",
 
-"prefMenuTranscript": "Transcript",
+"prefMenuTranscript": "Belgeler",
 
-"prefTitleCaptions": "Captions Preferences",
+"prefTitleCaptions": "Altyazı Seçenekleri",
 
-"prefTitleDescriptions": "Audio Description Preferences",
+"prefTitleDescriptions": "Ses Açıklama Ayarları",
 
-"prefTitleKeyboard": "Keyboard Preferences",
+"prefTitleKeyboard": "Klavye Tercihleri",
 
-"prefTitleTranscript": "Transcript Preferences",
+"prefTitleTranscript": "Belge Tercihleri",
 
-"prefIntroCaptions": "The following preferences control how captions are displayed.",
+"prefIntroCaptions": "Belirtilen ayarlar altyazıların nasıl görüntüleneceğini kontrol eder.",
 
-"prefIntroDescription1": "This media player supports audio description in two ways: ",
+"prefIntroDescription1": "Bu video oynatıcı iki farklı ses açıklaması destekler: ",
 
-"prefIntroDescription2": "The current video has ",
+"prefIntroDescription2": "Şu anki video'da mevcut ",
 
-"prefIntroDescriptionNone": "The current video has no audio description in either format.",
+"prefIntroDescriptionNone": "Şu anki video'da her iki format için de ses açıklaması mevcut değil.",
 
-"prefIntroDescription3": "Use the following form to set your preferences related to audio description.",
+"prefIntroDescription3": "Ses açıklamalarını tercihlerinle ilişkilendirmek için belirtilen biçimi kullan.",
 
-"prefIntroDescription4": "After you save your settings, audio description can be toggled on/off using the Description button.",
+"prefIntroDescription4": "Tercihlerini kaydettikten sonra, ses açıklamasını Açıklama butonu aracılığıyla açıp kapatabilirsin.",
 
 "prefIntroKeyboard1": "The media player on this web page can be operated from anywhere on the page using keyboard shortcuts (see below for a list).",
 
